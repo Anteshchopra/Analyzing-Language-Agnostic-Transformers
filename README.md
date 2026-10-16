@@ -11,6 +11,5 @@ This study in collabration with Oliver Wyman tries to answer the following quest
 **Toolkit Evalutation**  
 View the complete list of models evaluated using the toolkit:
 
-- [English–Chinese](https://sainath26.github.io/Language-Agnostic-Transformers-Analysis/Results/English_Chinese_dashboard.html)
-- [English–French](https://sainath26.github.io/Language-Agnostic-Transformers-Analysis/Results/English_French_dashboard.html)
-- [English–Spanish](https://sainath26.github.io/Language-Agnostic-Transformers-Analysis/Results/English_Spanish_dashboard.html)
+- [English–Chinese]([https://sainath26.github.io/Language-Agnostic-Transformers-Analysis/Results/English_Chinese_dashboard.html](https://github.com/anteshchopra12345-glitch/Analyzing-Language-Agnostic-Transformer/blob/main/Antesh_Chopra_Embedding_Similarity_Dashboard%20(1).html))
+
